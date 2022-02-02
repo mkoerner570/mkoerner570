@@ -2,11 +2,11 @@ Welcome to my Github!
 
 I am Max Koerner, from Columbus, Ohio, a software Engineer. I have built fullstack applications with Javascript, Python, React / Redux and pug. Please contact me via:
 
-<img>(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</img>
+!(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${mkoerner570}.${mkoerner570})
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkoerner)](https://github.com/mkoerner570/github-readme-stats)
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkoerner)](https://github.com/mkoerner570/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkoerner570&langs_count=8)](https://github.com/mkoerner570/github-readme-stats)
 
