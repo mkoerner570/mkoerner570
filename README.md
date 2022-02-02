@@ -4,10 +4,11 @@ I am Max Koerner, from Columbus, Ohio, a software Engineer. I have built fullsta
 
 <img>https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</img>(https://www.linkedin.com/feed/?trk=nav_logo)
 
-
+[![The Story So Far](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesRR91&layout=compact&show_icons=true&theme=radical)](https://github.com/JamesRR91/github-readme-stats)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${mkoerner570}.${mkoerner570}) -->
 Technologies Used:
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -18,6 +19,8 @@ Technologies Used:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkoerner&theme=dark)](https://github.com/mkoerner570/github-readme-stats)
 
