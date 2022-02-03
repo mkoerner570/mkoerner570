@@ -6,6 +6,12 @@ I am Max Koerner, from Columbus, Ohio, a software Engineer. I have built fullsta
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/max-koerner-49119664/)
 
+
+- 🔭 I’m currently working on adding features to [Postit](https://postits-app.herokuapp.com/).
+- 🌱 I’m currently learning how to improve on my understanding of Algorithms.
+- ⚡ Fun fact: I am a bread baking enthusiast!
+
+
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${mkoerner570}.${mkoerner570}) -->
 ------------------------------
 Technologies Used:
