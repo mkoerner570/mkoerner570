@@ -31,7 +31,7 @@ Technologies Used:
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkoerner&theme=dark)](https://github.com/mkoerner570/github-readme-stats)
 
-[![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkoerner570&theme=dark&layout=compact)](https://github.com/mkoerner570/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkoerner570&theme=dark&layout=compact)](https://github.com/mkoerner570/github-readme-stats)
 
 <!--
 **mkoerner570/mkoerner570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
